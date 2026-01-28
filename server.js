@@ -16,6 +16,10 @@ import userRoutes from './routes/users.js';
 import orderRoutes from './routes/orders.js';
 import categoryRoutes from './routes/categories.js';
 import importRoutes from './routes/import.js';
+import platformRoutes from './routes/platforms.js';
+
+// Import services
+import platformService from './services/platformService.js';
 
 // Load environment variables
 dotenv.config();
@@ -73,6 +77,7 @@ app.use('/api/users', userRoutes);
 app.use('/api/orders', orderRoutes);
 app.use('/api/categories', categoryRoutes);
 app.use('/api/import', importRoutes);
+app.use('/api/platforms', platformRoutes);
 
 // Health check endpoint
 app.get('/api/health', (req, res) => {
@@ -108,8 +113,16 @@ app.use('*', (req, res) => {
 
 // Database connection
 mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost:27017/charlottes-web')
-  .then(() => {
+  .then(async () => {
     console.log('✅ Connected to MongoDB');
+    
+    // Initialize platform service
+    try {
+      await platformService.initialize();
+      console.log('✅ Platform service initialized');
+    } catch (error) {
+      console.warn('⚠️  Platform service initialization warning:', error.message);
+    }
     
     app.listen(PORT, () => {
       console.log(`🚀 Charlotte's Web server running on port ${PORT}`);

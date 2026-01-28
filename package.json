@@ -11,7 +11,8 @@
     "build": "cd client && npm run build",
     "start": "node server.js",
     "seed": "node scripts/seedDatabase.js",
-    "import:csv": "node routes/import.js"
+    "import:csv": "node routes/import.js",
+    "init:platforms": "node scripts/initPlatforms.js"
   },
   "keywords": [
     "ecommerce",
