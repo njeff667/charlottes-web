@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "696fa2ef4dbf4f72a484f88a"
+  },
+  "email": "admin@charlottes-web.com",
+  "name": "Admin User",
+  "password": "$2a$10$HNVuAwAb.nXzKSJEh.1TvOintMW8W6/FqVxAaGPdRkwfunMkjVU5S",
+  "role": "admin",
+  "isActive": true,
+  "preferences": {
+    "emailNotifications": true,
+    "smsNotifications": false,
+    "theme": "light"
+  },
+  "addresses": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-20T15:44:47.802Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-20T15:44:47.802Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696fa2ef4dbf4f72a484f88b"
+  },
+  "email": "caregiver@charlottes-web.com",
+  "name": "Primary Caregiver",
+  "password": "$2a$10$HNVuAwAb.nXzKSJEh.1TvOyNOLTw59idiNuIdEMoccGJbAeU66v8m",
+  "role": "caregiver",
+  "isActive": true,
+  "preferences": {
+    "emailNotifications": true,
+    "smsNotifications": false,
+    "theme": "light"
+  },
+  "addresses": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-20T15:44:47.803Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-20T15:44:47.803Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696fa2ef4dbf4f72a484f88c"
+  },
+  "email": "helper@charlottes-web.com",
+  "name": "Helper",
+  "password": "$2a$10$HNVuAwAb.nXzKSJEh.1TvOk21u/bpjRyY9HJ4unbclNp2XMxUCh0W",
+  "role": "helper",
+  "isActive": true,
+  "preferences": {
+    "emailNotifications": true,
+    "smsNotifications": false,
+    "theme": "light"
+  },
+  "addresses": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-20T15:44:47.803Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-20T15:44:47.803Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696fa2ef4dbf4f72a484f88d"
+  },
+  "email": "customer@example.com",
+  "name": "Sample Customer",
+  "role": "customer",
+  "isActive": true,
+  "preferences": {
+    "emailNotifications": true,
+    "smsNotifications": false,
+    "theme": "light"
+  },
+  "addresses": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-20T15:44:47.803Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-20T15:44:47.803Z"
+  }
+}]

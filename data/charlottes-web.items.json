@@ -1,0 +1,1686 @@
+[{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1cef"
+  },
+  "Item Description": "MyMini Heart Waffle Maker, Red",
+  "Manufacturer": "Nostoalgia ",
+  "Model": "VWMMWFHRT5RD",
+  "SKU": {
+    "$numberLong": "82677200143"
+  },
+  "Height": 7.5,
+  "Width": 6,
+  "Length": 4.25,
+  "Pounds": 1,
+  "Ounces": 7.8,
+  "Box ID": "K1",
+  "Price": 14.99,
+  "Pictures": "[\n{\n'front': 'AF1QipO2xz-FrD7CPD5PfZdVYr7BklryfJpBMhR4quIw',\n'right: 'AF1QipNetnTvkJFSupsH0FbCNkxdSOuLMKDAav3FLMr0',\n'left': 'AF1QipOnfiCXz7A83uOhKI33YX7UrUFgoOTjE803AOfe'\n}\n]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1cf0"
+  },
+  "Item Description": "Ice Cream Maker with Stand Mixer Attachement",
+  "Manufacturer": "Kitchen Aid",
+  "Model": "KICA0WH",
+  "Height": 11,
+  "Width": 10.5,
+  "Length": 10.25,
+  "Pounds": 6,
+  "Ounces": 9.1,
+  "Box ID": "K1",
+  "Pictures": "[\n{\n'front: 'AF1QipPIcPJpsKAKNRk6qHmGe0BxDJR4IQN90i_1jjQj',\n'left': 'AF1QipMdu8pTxxkklZclB59kxF8JK61QFj-yLZBLMqaP',\n'right': 'AF1QipPoicBDCAt2hQL2fhxefAZDRkmeYOVpcRGUtIfy'\n}\n]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1cf1"
+  },
+  "Item Description": "Ice Cream Maker with Stand Mixer Attachement",
+  "Manufacturer": "Kitchen Aid",
+  "Model": "KICA0WH",
+  "Height": 11,
+  "Width": 10.5,
+  "Length": 10.25,
+  "Pounds": 6,
+  "Ounces": 9.1,
+  "Box ID": "K2",
+  "Pictures": "[\n{\n'front: 'AF1QipPhtlvRL-raK9xgtrn5x98-JWUxleftLbS_lKMM',\n'left': 'AF1QipNTe4gAP14ETADp7Fbk668PVyuq6-RjtXl-6ZKA',\n'right': 'AF1QipPrwyRzpz-bRdwUf40FZ0U1H6Lx02p9n2hPJWiC'\n}\n]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1cf2"
+  },
+  "Item Description": "Blade Coffee Ginder",
+  "Manufacturer": "Kitchen Aid",
+  "Model": "BCG111OB",
+  "Height": 9.5,
+  "Width": 5,
+  "Length": 5,
+  "Pounds": 2,
+  "Ounces": 12.5,
+  "Box ID": "K1",
+  "Pictures": "[\n{\n'front: 'AF1QipNUR2ch-moaqYLZ29uVuPpZXFzeDVaWMqo945WL',\n'left': 'AF1QipMBtjCLC0OvN25_QQ-kwugJh1__cs88O4FPKAsS',\n'right': 'AF1QipMcL5wl4TXEQ_OyfEgCAJ483uU3Lk9s84ZOZpyN'\n}\n]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1cf3"
+  },
+  "Item Description": "Citrus Juicer Stand Mixer Attacher",
+  "Manufacturer": "Kitchen Aid",
+  "Model": "JE",
+  "SKU": {
+    "$numberLong": "786348492584"
+  },
+  "Height": 9.5,
+  "Width": 5,
+  "Length": 6.5,
+  "Pounds": 0,
+  "Ounces": 14.5,
+  "Box ID": "K1",
+  "Pictures": "[\n{\n'front: 'AF1QipOeSDbW_AkzoP0gR1h0GVpDp8p0vaVYHCxWLHdh',\n'left': 'AF1QipNhfd0L02kUyp9efX8eORzJO7mBbMrGhWCqn982',\n'right': 'AF1QipMyUrAGJVqFNF1DlQ-p5vJ2b7AtnX2lCdICTKA3'\n}\n]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1cf4"
+  },
+  "Item Description": "Shake and Store, 3-Pack, Container Set with Lables",
+  "Manufacturer": "Better Homes & Gardens",
+  "SKU": {
+    "$numberLong": "681131692168"
+  },
+  "Height": 9.5,
+  "Width": 4,
+  "Length": 6.25,
+  "Pounds": 1,
+  "Ounces": 3,
+  "Box ID": "K1",
+  "Pictures": "[{\n'front: 'AF1QipNLzNt9-p0J4JpP5AW-2d7ywqWD61Hd83VZkzrB',\n'left': 'AF1QipMtVKYu--YJ1cccQQki6R4lN82yW3wEgmXKPJFh',\n'right': 'AF1QipNCk8b2sRMl7_nYJpZ3-SnKKRxH2mis9V-Qmvoo'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1cf5"
+  },
+  "Item Description": "Electric Skillet",
+  "Manufacturer": "GE",
+  "SKU": {
+    "$numberLong": "50946000183"
+  },
+  "Serial #": 169216,
+  "Height": 13.25,
+  "Width": 7.75,
+  "Length": 20.25,
+  "Pounds": 8.6,
+  "Box ID": "K3",
+  "Pictures": "[{\n'front: 'AF1QipN77HgggMsOsECPwjl5BTEKhYNErqbjvxH7fJ5N',\n'left': 'AF1QipMZ5jrohYyKnj7H7JrMduhptfgp5mi_nOI9ZB8l',\n'right': 'AF1QipNxvKBlmQLKPCapYwHfkV2vb50YtZuKCIxBAHOO'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1cf6"
+  },
+  "Item Description": "Stand Mixer Attachment Pack",
+  "Manufacturer": "Kitchen Aid",
+  "Model": "FPPA",
+  "SKU": {
+    "$numberLong": "734869193985"
+  },
+  "Height": 7.5,
+  "Width": 10,
+  "Length": 16.5,
+  "Pounds": 7,
+  "Box ID": "K2",
+  "Pictures": "[{\n'front: 'AF1QipMXmIc1KR71LiekOVHjTvt1QYeR8Ef--a7q4Dnt',\n'left': 'AF1QipMzAlEfZdk2R0YaKnwislmFHQK459R3rpMC6kZu',\n'right': 'AF1QipPfcJP2Dp5YLuMKOYzAScr-wxPqFTbriHBRJVgN'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1cf7"
+  },
+  "Item Description": "Quick Chopper with handle",
+  "Manufacturer": "As Seen on TV",
+  "Height": 7,
+  "Width": 7,
+  "Length": 7,
+  "Pounds": 1,
+  "Ounces": 8.3,
+  "Box ID": "K1",
+  "Pictures": "[{\n'front: 'AF1QipP7yEGR17RPehiLUTQjSOvvm6BSfsTMUKwF57W7',\n'left': 'AF1QipP2_SwC4Vc6rBr3VoJzPcce2PBDNnzju6SQGnwt',\n'right': 'AF1QipORIvPSWqMSHMQp6xj1mcKG5cBqd0TEsOylZjkK'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1cf8"
+  },
+  "Item Description": "Spiralizer with Peel, Core and Slice Stand Mixer Attachment (5 Blades)",
+  "Manufacturer": "Kitchen Aid",
+  "Model": "KSM1APC",
+  "SKU": {
+    "$numberLong": "7778403408"
+  },
+  "Height": 9.5,
+  "Width": 4,
+  "Length": 14.25,
+  "Pounds": 3,
+  "Ounces": 11.2,
+  "Box ID": "K2",
+  "Pictures": "[{\n'front: 'AF1QipPlXBCATWh3g3rn-V8IoMK0GsxXde0Z-mIliXML',\n'left': 'AF1QipMgqIQQoIg8j9M1nq1C57VmvTEj7ZDb6QeUaKQS',\n'right': 'AF1QipPHu_d_dRMuVmaLyHZ9Z1gcjnr9vnyM-hztFJ4W'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1cf9"
+  },
+  "Item Description": "Stainless Steel Digital Kitchen Scale, Weighs products up to 11 lbs (5 kg)",
+  "Manufacturer": "Mainstays",
+  "SKU": {
+    "$numberLong": "48894049279"
+  },
+  "Height": 8.5,
+  "Width": 1.5,
+  "Length": 11,
+  "Pounds": 1,
+  "Ounces": 12,
+  "Box ID": "K1",
+  "Pictures": "[{\n'front: 'AF1QipP1yKk1QTET_Qxb6O2xA2QBVaOGenZAuWtx0gtq',\n'left': 'AF1QipOs8iEXyhdO6w3CTa3PP2bCeCKvdsRP2OHVmXPR',\n'right': 'AF1QipMYMxcpo0iEzF91NRmvTapbKrQr0suUHBkgkfbA'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1cfa"
+  },
+  "Item Description": "Bamboo/Glass Digital Kitchen Scale, High Capacity",
+  "Manufacturer": "Taylor",
+  "Model": 165721,
+  "Height": 11,
+  "Width": 2.25,
+  "Length": 10.25,
+  "Pounds": 2,
+  "Ounces": 3.7,
+  "Box ID": "K2",
+  "Pictures": "[{\n'front: 'AF1QipO97LF3JQQ2_88dxhFrVQxvgemLBO3hspwJ0v4C',\n'left': 'AF1QipPE8jn4GHw19Z3XdXu_PGD1RPusoNFVMwjxKZDd',\n'right': 'AF1QipO46xXJO7IX4x25-5KtsSkDQKG2KoZ4d2mX4sO2'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1cfb"
+  },
+  "Item Description": "Hook Up, 1 Hook Up Unit (3.5Qt./Oval)",
+  "Manufacturer": "Crock Pot",
+  "Model": "SCCPMD3",
+  "SKU": {
+    "$numberLong": "50946000176"
+  },
+  "Height": 15.5,
+  "Width": 9,
+  "Length": 14.25,
+  "Pounds": 10,
+  "Box ID": "K4",
+  "Pictures": "[{\n'front: 'AF1QipNb_etLSnAga0NlulgJi4N2YOaxCMXktgOgcQg0',\n'left': 'AF1QipM7bCJtlo3dQ-pGw5Y55e0MfIYMYd75uO325Bln',\n'right': 'AF1QipNlIGXgPN2eyuIlZVnqHzEL-Y1r2plU-6eFl_WO'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1cfc"
+  },
+  "Item Description": "Food Grinder Stand Mixer Attachment",
+  "Manufacturer": "Kitchen Aid",
+  "Model": "FGA",
+  "Height": 7.5,
+  "Width": 4.5,
+  "Length": 9,
+  "Pounds": 1,
+  "Ounces": 15.7,
+  "Box ID": "K1",
+  "Pictures": "[{\n'front: 'AF1QipMMIgUBW7_j-5O-Js8X4EVfHXAfsNAcKHD4G1SJ',\n'left': 'AF1QipN8oYmj5BmCA4RfjNNZ0IIlwrb_m-AkAwL-e-Cw',\n'right': 'AF1QipP27wTgRqik1xgn7d76p6fo-wrPtuAhfOEsfOlc'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1cfd"
+  },
+  "Item Description": "Food Grinder Stand Mixer Attachment",
+  "Manufacturer": "Kitchen Aid",
+  "Model": "FGA",
+  "SKU": {
+    "$numberLong": "48894063503"
+  },
+  "Height": 7.5,
+  "Width": 4.5,
+  "Length": 9,
+  "Pounds": 1,
+  "Ounces": 15.7,
+  "Box ID": "K1",
+  "Pictures": "[{\n'front: 'AF1QipPuRFCG3QZ8AaRaw6bPQ87ZResuhDH5G4acyVv7',\n'left': 'AF1QipPhjpoGzbYjF0XJVezXyxfT2EXb8v7pp4T5IcX_',\n'right': 'AF1QipNjeQNa70vh8Le2mSRFlnG9pCJqjW41jfQz-3Eb'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1cfe"
+  },
+  "Item Description": "Mini Food Processor (3.5 cup)",
+  "Manufacturer": "Kitchen Aid",
+  "Model": "KFC3516CU",
+  "SKU": {
+    "$numberLong": "883049407142"
+  },
+  "Height": 9.5,
+  "Width": 7,
+  "Length": 7,
+  "Pounds": 3,
+  "Ounces": 2.9,
+  "Box ID": "K1",
+  "Pictures": "[{\n'front: 'AF1QipNKAgLt64SpRJgXLQf80wH0oHjjdoiNB-clTvCV',\n'left': 'AF1QipNQs2wnLadzIiVNZPeHdXZ0URO6EB1i1Ur0w_kI',\n'right': 'AF1QipPztCD6ie6rDWOX0djP22v5rQbWNrHh4yDoJ3VN'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1cff"
+  },
+  "Item Description": "4 Qrt Round, Manual Control, 4+ People ",
+  "Manufacturer": "Crock Pot",
+  "Model": "SCR400-BLT",
+  "Height": 10,
+  "Width": 11,
+  "Length": 11,
+  "Pounds": 7.4,
+  "Box ID": "K5",
+  "Pictures": "[{\n'front: 'AF1QipN6zgphDj2d4BWxwIGI0dGd8jjN1FfE6yKgTLzv',\n'left': 'AF1QipMDgSDmB3bwHIO8I0GxEKbgU22XefZh0TVh0QMF',\n'right': 'AF1QipNtAmNOd-odJZYGcVeLFShEhUCIC5yT0MlzaCwl'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d00"
+  },
+  "Item Description": "Fruit & Vegetable Prep Set, 5 pieces",
+  "Manufacturer": "Home Style",
+  "SKU": {
+    "$numberLong": "27077076653"
+  },
+  "Serial #": "23627FW",
+  "Height": 10,
+  "Width": 12,
+  "Length": 13.5,
+  "Pounds": 4,
+  "Ounces": 11.6,
+  "Box ID": "K5",
+  "Price": 14.99,
+  "Pictures": "[{\n'front: 'AF1QipOe_Yh-Tf0rI2Vll7GB4vDr4pwzOPAmuL4kkHZy',\n'left': 'AF1QipOV6coULMPorrDKmamv-GDcgt_GcXFkJLrRjBOY',\n'right': 'AF1QipM-JZxwNtgw22VSOH-op00VIli__G3eSSpY7TjW'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d01"
+  },
+  "Item Description": "Ribbed Panini Press, 8.25 in",
+  "Manufacturer": "Lodge Logie",
+  "Model": "LPP3 C1858",
+  "SKU": {
+    "$numberLong": "7553633890"
+  },
+  "Height": 8.5,
+  "Width": 2.5,
+  "Length": 8.5,
+  "Pounds": 4,
+  "Ounces": 8.2,
+  "Box ID": "K1",
+  "Pictures": "[{\n'front: 'AF1QipPxRy6Z2Qs3hXaabTlvvUUlzIDgN2xEZ_UKajck',\n'left': 'AF1QipO53y5fAIHDV-x_GkLc9e1V4PvcdS-OW78e10E8',\n'right': 'AF1QipP8i3-GTf9_Nc2y4QtFynGVSuhP7Ce-RiT4y3H1'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d02"
+  },
+  "Item Description": "Glass Carafe Coffee Maker, Onyx Black",
+  "Manufacturer": "Kitchen Aid",
+  "Model": "KCM111OB",
+  "SKU": {
+    "$numberLong": "883049216256"
+  },
+  "Height": 16.25,
+  "Width": 10,
+  "Length": 12.75,
+  "Pounds": 7,
+  "Ounces": 3.9,
+  "Box ID": "K6",
+  "Pictures": "[{\n'front: 'AF1QipOVBadgHQA1_ZxLQER7bP1yhMz0Eykiw_zvYwDI',\n'left': 'AF1QipNQNUdMZEofvoFqphvnA6Upj2UIzaPPsiEfgfVr',\n'right': 'AF1QipNqteZwotLijOsoGzoPAvqt0XWvI-RP_2cKsaem'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d03"
+  },
+  "Item Description": "L'Original Bacon Wave, As Seen on TV",
+  "Manufacturer": "Emson",
+  "SKU": {
+    "$numberLong": "80313050572"
+  },
+  "Height": 9.5,
+  "Width": 2.75,
+  "Length": 10,
+  "Pounds": 1,
+  "Ounces": 0.1,
+  "Box ID": "K2",
+  "Pictures": "[{\n'front: 'AF1QipNhOoaV3cKhnwX9Ee0FTvgc4K-fiK4DZxrzAylp',\n'left': 'AF1QipO1-Z--xa8qHYNdLiKsEG7q3fPJ6VxiN-y2HZb5',\n'right': 'AF1QipPE02bXdnyBoA6wwOQBNlIgQKLpJJrYoT56jVjU'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d04"
+  },
+  "Item Description": "Bacon Bonanza, Copper, Super non-stick coating, As-Seen on TV",
+  "Manufacturer": "Gothoam Steel",
+  "SKU": {
+    "$numberLong": "80313017636"
+  },
+  "Height": 10.5,
+  "Width": 2,
+  "Length": 14,
+  "Pounds": 2,
+  "Ounces": 0.02,
+  "Box ID": "K2",
+  "Price": 20,
+  "Pictures": "[{\n'front: 'AF1QipMYcvxxA5CSohC_XtbzwCttlYlPeyajsp_DWqMs',\n'left': 'AF1QipPfsp-MiGceDqTFq2p0cD1HkNkmDSk6nuha0Vus',\n'right': 'AF1QipMMAZ-j9_Zq6rR17Qot4WB-hlrsMw18iIjtNfc4'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d05"
+  },
+  "Item Description": "Bacon Bonanza, Copper, Super non-stick coating, As-Seen on TV",
+  "Manufacturer": "Gothoam Steel",
+  "SKU": {
+    "$numberLong": "80313017636"
+  },
+  "Height": 10.5,
+  "Width": 2,
+  "Length": 14,
+  "Pounds": 2,
+  "Ounces": 0.02,
+  "Box ID": "K3",
+  "Price": 20,
+  "Pictures": "[{\n'front: 'AF1QipOYEZQDEXEmyurTz1VFo2wXduy2zw8BO6WmMVdk',\n'left': 'AF1QipOEYNgFbKQHTnchhmwKuVWoKkHu0VChe34DaTEf',\n'right': 'AF1QipN3qW-NOvQOCzDdJM1vslR7amwdFt1PYZXcytxh'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d06"
+  },
+  "Item Description": "Fizzi",
+  "Manufacturer": "Sodastream",
+  "SKU": {
+    "$numberLong": "811572026721"
+  },
+  "Height": 17.5,
+  "Width": 7.75,
+  "Length": 8.25,
+  "Pounds": 6,
+  "Ounces": 2.7,
+  "Box ID": "K2",
+  "Pictures": "[{\n'front: 'AF1QipNSbUYvdn0gJW16aEyj66fwNB7GbUw5yZSlKGf5',\n'left': 'AF1QipMysoMww_y1oagDueZJZCHTGR0D_efn0rhfPvjc',\n'right': 'AF1QipPAeFr8OphZ47rVqi_Rtq85Af7vom466OZuGeLg'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d07"
+  },
+  "Item Description": "MyMini Heart Waffle Maker, Red",
+  "Manufacturer": "Nostoalgia ",
+  "Model": "VWMMWFHRT5RD",
+  "SKU": {
+    "$numberLong": "82677200143"
+  },
+  "Height": 7.5,
+  "Width": 6,
+  "Length": 4.25,
+  "Pounds": 1,
+  "Ounces": 7.8,
+  "Box ID": "K2",
+  "Price": 14.99,
+  "Pictures": "[{\n'front: 'AF1QipMcMhxQMSBnq3zoHtPo-1IT3G9qHDigBv4NTjVk',\n'left': 'AF1QipPHsFIeA49Z-izbL6J7zS6iadBAPFiitjeiRJc5',\n'right': 'AF1QipPr_CcRv-mU1jhagkY32q9sfJd33uvY-2bq2DLn'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d08"
+  },
+  "Item Description": "Electric Skillet",
+  "Manufacturer": "Copper Chef",
+  "SKU": {
+    "$numberLong": "752356825201"
+  },
+  "Height": 13.5,
+  "Width": 6.75,
+  "Length": 21,
+  "Pounds": 6,
+  "Ounces": 16.6,
+  "Box ID": "K4",
+  "Pictures": "[{\n'front: 'AF1QipPj4PVWhjVW2oXhd5vGJ7owKiL0c2RjSjLs3bxz',\n'left': 'AF1QipO1cmYniI2zf1AnVp5WXRIWQu4iSWmTZBAX4teM',\n'right': 'AF1QipOVphWzbJwY5SAGj3bNKO5o_dMCc6RRhB2gfsli'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d09"
+  },
+  "Item Description": "4-Quart Wood Ice Cream Machine",
+  "Manufacturer": "Nostoalgia ",
+  "Model": "ICMW4NHDB",
+  "SKU": {
+    "$numberLong": "82677001634"
+  },
+  "Height": 13.5,
+  "Width": 12.75,
+  "Length": 12.5,
+  "Pounds": 8.6,
+  "Box ID": "K7",
+  "Pictures": "[{\n'front: 'AF1QipNLnnaP31umz93IGk9Fi_el1IXIoKL6a5cWYUUV',\n'left': 'AF1QipNuhU_7_PuK8KJigvLlFC1h9P3qsLtLBXzkFUMi',\n'right': 'AF1QipOW-c0DCjRI0LeAiQlWH6VFLMY2mmyBd3ywNQpe'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d0a"
+  },
+  "Item Description": "Shake and Store, 3-Pack, Container Set with Lables",
+  "Manufacturer": "Better Homes & Gardens",
+  "Model": "BH102800042003",
+  "SKU": {
+    "$numberLong": "786348492584"
+  },
+  "Height": 9.5,
+  "Width": 4,
+  "Length": 6.25,
+  "Pounds": 1,
+  "Ounces": 3,
+  "Box ID": "K2",
+  "Pictures": "[{\n'front: 'AF1QipMRV6aGPwsibspIjTF1s2_GyYA_3mgqqe6yEX7d',\n'left': 'AF1QipP0jlOsSpfyRb2D7gd578tpkmlZ15rB0YH5TKgI',\n'right': 'AF1QipP7kZM9yjwdahx5kmuf2pD4dtN7xbqUaUAIS-9D'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d0b"
+  },
+  "Item Description": "Shake and Store, 3-Pack, Container Set with Lables",
+  "Manufacturer": "Better Homes & Gardens",
+  "Model": "BH1028000423003",
+  "SKU": {
+    "$numberLong": "786348492584"
+  },
+  "Height": 9.5,
+  "Width": 4,
+  "Length": 6.25,
+  "Pounds": 1,
+  "Ounces": 3,
+  "Box ID": "K3",
+  "Pictures": "[{\n'front: 'AF1QipOrF_td-P55JBSdl-l8qRL5DfpCBOXK3X3BN7FV',\n'left': 'AF1QipMFafSf3lTWHmdQArp5MOyCZZIr8T39b4rc4QVr',\n'right': 'AF1QipOvwoCbnpwzOHAhVO_PAkRvWwUGLo9TGxdb38Jk'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d0c"
+  },
+  "Item Description": "Shake and Store, 3-Pack, Container Set with Lables",
+  "Manufacturer": "Better Homes & Gardens",
+  "Model": "BH1028000423003",
+  "SKU": {
+    "$numberLong": "786348492584"
+  },
+  "Height": 9.5,
+  "Width": 4,
+  "Length": 6.25,
+  "Pounds": 1,
+  "Ounces": 3,
+  "Box ID": "K3",
+  "Pictures": "[{\n'front: 'AF1QipP86iVMP-QY0ty84OBN9TknVmKUU7usM23YO0KZ',\n'left': 'AF1QipNDqwGPWet4jqGtCiE3lmOQfwa16THUyQDFjzur',\n'right': 'AF1QipNQ4RUJkKRpdC3O7M3BbEfe8h-VAciP2k7ztLPB'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d0d"
+  },
+  "Item Description": "Microwave Egg Cooker",
+  "Manufacturer": "Incrediegg",
+  "SKU": {
+    "$numberLong": "860006158910"
+  },
+  "Height": 6.25,
+  "Width": 6.25,
+  "Length": 6.5,
+  "Ounces": 9.1,
+  "Box ID": "K1",
+  "Pictures": "[{\n'front: 'AF1QipPuveHQw1qZskTIr5wQCGZ6kZMvgZj8HOLNqc6B',\n'left': 'AF1QipN2TtDK6mgm2VvHpJaafky-IykcFwtRwDqNbP_o',\n'right': 'AF1QipMGknd4mqkA4890u0VdsoQ2PFxsqok3SQZ8k-hn'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d0e"
+  },
+  "Item Description": "MyMini Waffle Maker, Teal",
+  "Manufacturer": "Nostoalgia ",
+  "Model": "MWF5TL",
+  "SKU": {
+    "$numberLong": "8267700325"
+  },
+  "Height": 7.5,
+  "Width": 5.25,
+  "Length": 6,
+  "Pounds": 1,
+  "Ounces": 7.8,
+  "Box ID": "K3",
+  "Price": 9.98,
+  "Pictures": "[{\n'front: 'AF1QipMmcxvT2gtiBELT6Dwlb8IknsFMPcYP7ZyUPmqR',\n'left': 'AF1QipPNucE6cvgjILdSuKn9U-O4GfcoXC_bG9-nruzD',\n'right': 'AF1QipP68zmvzDAZsgOQzZq8wHn5l2yL7Gw3CvCjiPN6'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d0f"
+  },
+  "Item Description": "Express Chop",
+  "Manufacturer": "Shark Ninja",
+  "SKU": {
+    "$numberLong": "622356530866"
+  },
+  "Height": 10,
+  "Width": 6,
+  "Length": 6,
+  "Pounds": 2,
+  "Ounces": 6,
+  "Box ID": "K5",
+  "Pictures": "[{\n'front: 'AF1QipPsr3A6PkrSHjjUHOuIDr_fpLHvEqWQhduhbAPX',\n'left': 'AF1QipNQvu56XKz31gdSNKOOsasxiRwEyoYlAqXcSaj1',\n'right': 'AF1QipOBbm5p_B0CdkLy9kQ44lYpBqaqbIydPIa_DJfh'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d10"
+  },
+  "Item Description": "Induction Cooktop",
+  "Manufacturer": "Nuwave",
+  "SKU": {
+    "$numberLong": "652185305328"
+  },
+  "Height": 13.5,
+  "Width": 6.25,
+  "Length": 15.25,
+  "Pounds": 7.4,
+  "Box ID": "K6",
+  "Pictures": "[{\n'front: 'AF1QipPrFEjav7RKW7F5vlRG5T4-lJleWJvFg8kQs4AN',\n'left': 'AF1QipN5MlAVPRcSfFD_6hTqrZ9HV3drymaioeExoU2W',\n'right': 'AF1QipO2MVlPcBQwPZW6uxbyv_d594A0HZKgKXs7BYiY'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d11"
+  },
+  "Item Description": "Commerical Quality French Fry Cutter",
+  "Manufacturer": "Buffalo Tools",
+  "SKU": {
+    "$numberLong": "27077066258"
+  },
+  "Height": 9.75,
+  "Width": 9.75,
+  "Length": 21,
+  "Pounds": 13,
+  "Box ID": "K22",
+  "Price": 106.99,
+  "Pictures": "[{\n'front: 'AF1QipMSxfKgxxt5MKKjapKWqak99ZGvh9LajpgioisI',\n'left': 'AF1QipO-Ngk6GTBMdT7YFsInDmCJRFfwXTz3dFQhOmOE',\n'right': 'AF1QipP5g5y-mfXeXkf-Y0WnIG8SBxIqd4FH38freBcF'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d12"
+  },
+  "Item Description": "Ultra Power Hand Mixer, White",
+  "Manufacturer": "Kitchen Aid",
+  "Model": "KHM512WH",
+  "SKU": {
+    "$numberLong": "883049271507"
+  },
+  "Serial #": "W71354583",
+  "Height": 7.5,
+  "Width": 6.75,
+  "Length": 9.5,
+  "Pounds": 2,
+  "Ounces": 10.8,
+  "Box ID": "K5",
+  "Price": 59.99,
+  "Pictures": "[{\n'front: 'AF1QipMxcW1LB-VAKRY_FQ1-F87d3gWTeM4aaeZUcJUI',\n'left': 'AF1QipM2EL5f2mh0SIy4UEQTgkGy-bIXLx4yqNppW-u9',\n'right': 'AF1QipOO2crJ_KsRRCFGouZ0OqSwABIJu3Taxx9VZi7x'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d13"
+  },
+  "Item Description": "Fresh Prep Slicer/Shredder",
+  "Manufacturer": "Kitchen Aid",
+  "Model": "KSMVSA",
+  "Height": 10.25,
+  "Width": 5.25,
+  "Length": 12,
+  "Pounds": 3,
+  "Ounces": 2.8,
+  "Box ID": "K7",
+  "Price": 59.99,
+  "Pictures": "[{\n'front: 'AF1QipPyX_ATT_VlYlqtCRzyOcOccEl5HZoBsktIaKx7',\n'left': 'AF1QipN5eoKLEsU50jMWP0O9XciiFqzwoXmTHDfrz_6Y',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d14"
+  },
+  "Item Description": "MyMini Heart Waffle Maker, Red",
+  "Manufacturer": "Nostoalgia ",
+  "SKU": {
+    "$numberLong": "82677200143"
+  },
+  "Height": 7.5,
+  "Width": 6,
+  "Length": 4.25,
+  "Pounds": 1,
+  "Ounces": 7.8,
+  "Box ID": "K5",
+  "Price": 25.99,
+  "Pictures": "[{\n'front: 'AF1QipNmI7bLKY83DV1oM0v_7bNMCPaDPQvNKg3fQclI',\n'left': 'AF1QipM5H8ARKTpbUvR-R-7v5AP6DkTvCZeBssixasXb',\n'right': 'AF1QipMKy9sGSu43NbDQ_PJ0ZVAyqDKmk6OD_qL2CfaV'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d15"
+  },
+  "Item Description": "MyMini Chocolate Dipping Pot",
+  "Manufacturer": "Nostoalgia ",
+  "Model": "VWMMCD20PNK",
+  "SKU": {
+    "$numberLong": "82677200051"
+  },
+  "Height": 6.25,
+  "Width": 6.75,
+  "Length": 6.5,
+  "Pounds": 2,
+  "Ounces": 12.6,
+  "Box ID": "K5",
+  "Price": 29.99,
+  "Pictures": "[{\n'front: 'AF1QipNKE8KVLzbiwMl5h6hv8fPrkYXN9kKrW7CsxJvX',\n'left': 'AF1QipPGjjibACxqRwH4xLWpzpXEjemfQBbZw_Qx_JT-',\n'right': 'AF1QipOoSgzwK_VhlvmECWbu7s7QZ5ZAgIlPEW_QBvt8'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d16"
+  },
+  "Item Description": "MyMini Lava & Bundt Cake",
+  "Manufacturer": "Nostoalgia ",
+  "SKU": {
+    "$numberLong": "82677004246"
+  },
+  "Height": 7.5,
+  "Width": 4.25,
+  "Length": 6,
+  "Pounds": 1,
+  "Ounces": 8.3,
+  "Box ID": "K3",
+  "Price": 24.95,
+  "Pictures": "[{\n'front: 'AF1QipPKnaj3DQpyUpPA5iAaaHRVGbfVC5ByLouMark9',\n'left': 'AF1QipNsPQsbOgyO0PPiKIrGHP4xcNJEo6ayw7xeshCR',\n'right': 'AF1QipM1c_O7VEzHxB7fAcMTqXxHt8fOxQJas660R1iU'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d17"
+  },
+  "Item Description": "Pizzazz Plus Rotating Pizza Oven",
+  "Manufacturer": "Presto",
+  "Model": 3430,
+  "SKU": {
+    "$numberLong": "75741034300"
+  },
+  "Height": 14.25,
+  "Width": 10.75,
+  "Length": 15.25,
+  "Pounds": 7.4,
+  "Box ID": "K9",
+  "Price": 53.99,
+  "Pictures": "[{\n'front: 'AF1QipNQA4_-gOYc809335NzRmVY5fsUnVIZi-PBDOAp',\n'left': 'AF1QipPRs9p62vDn2kpgxNPC7PM19yjdCC7pAEwz4fWx',\n'right': 'AF1QipOuLpgHesAhtTz10E6TZ_jlyNH9dcYmQVaFYawr'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d18"
+  },
+  "Item Description": "Fresh Prep Slicer/Shredder",
+  "Manufacturer": "Kitchen Aid",
+  "Model": "KSMVSA",
+  "SKU": {
+    "$numberLong": "883049439570"
+  },
+  "Height": 10.25,
+  "Width": 5,
+  "Length": 12,
+  "Pounds": 3,
+  "Ounces": 2.8,
+  "Box ID": "K8",
+  "Price": 59.99,
+  "Pictures": "[{\n'front: 'AF1QipPei2b95tNOs7pEyio7da19Is1ppiyehCSbKE4W',\n'left': 'AF1QipNv4dWXVT0jP1AjbI6u6WxNV3HDRHDh3xewzhrm',\n'right': 'AF1QipMTRB-WthQPvsCM6gK8uAJ6FwWUcT3MWZq9TGaw'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d19"
+  },
+  "Item Description": "Dual Basket ProFry",
+  "Manufacturer": "Presto",
+  "Model": 5489,
+  "SKU": {
+    "$numberLong": "75741054896"
+  },
+  "Height": 10.75,
+  "Width": 15.25,
+  "Length": 13.5,
+  "Pounds": 10.6,
+  "Box ID": "K10",
+  "Price": 79.99,
+  "Pictures": "[{\n'front: 'AF1QipPxPZ0lKCN_TDNP2-xzlU4BbsJxsV9BsnLMVf1m',\n'left': 'AF1QipOrloshSQugjzTaAAOS6MMH1W2G8R_h9ehax2G-',\n'right': 'AF1QipPICxufvrVKgm2H4BmA3ufcGBteNQUtlXWjHNKQ'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d1a"
+  },
+  "Item Description": "3 functions 1 machine: shred, slice, spiralize",
+  "Manufacturer": "Veggie Bullet",
+  "SKU": {
+    "$numberLong": "857019006468"
+  },
+  "Height": 13,
+  "Width": 10,
+  "Length": 16.5,
+  "Pounds": 13.4,
+  "Box ID": "K11",
+  "Price": 89.99,
+  "Pictures": "[{\n'front: 'AF1QipOo_tikpDb8RCHe5kZnjP_jSldL525sfQAR1DIb',\n'left': 'AF1QipNNubFquscHPsi35LOFpq5lpvZbl3YUgIXqKx4V',\n'right': 'AF1QipO8Vp9zvC0rKqKGFGS8y-hyolAPBlV6s6DQbaEP'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d1b"
+  },
+  "Item Description": "3-minute popcorn popper",
+  "Manufacturer": "Wabash Valley Farms",
+  "Model": "Whirley Popper",
+  "SKU": {
+    "$numberLong": "19669000269"
+  },
+  "Height": 7.75,
+  "Width": 9.75,
+  "Length": 16.5,
+  "Pounds": 2,
+  "Ounces": 7,
+  "Box ID": "K11",
+  "Price": 26.99,
+  "Pictures": "[{\n'front: 'AF1QipPkm5bC0BlokC-GtKXTACpGWCH9OOnUlnIPrE6Z',\n'left': 'AF1QipPU8ezJDAPRBAvu1CZ5m0-6RYJYbDetzqBoUt3U',\n'right': 'AF1QipNRXLJn7B0lWyqDNFhdQr8TsITfz7ZnlbYTStvC'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d1c"
+  },
+  "Item Description": "Make refreshing snow cones or shaved ice with ease",
+  "Manufacturer": "Nostalgia",
+  "Model": "Electric snow Cone Maker",
+  "SKU": {
+    "$numberLong": "82677001641"
+  },
+  "Height": 11,
+  "Width": 8.5,
+  "Length": 8,
+  "Pounds": 2,
+  "Ounces": 13.8,
+  "Box ID": "K9",
+  "Price": 25.35,
+  "Pictures": "[{\n'front: 'AF1QipPE5RdF2V7lz0VZTbEa0h4NqMHU4Iki59GVp5xQ',\n'left': 'AF1QipPRHF6PJakuJbRdvSBJjPMFuhAdYFSDJMqV4o7X',\n'right': 'AF1QipNdiqNXSqxQu0aFHPm020ZKTmcZPwNWuwCWIR6h'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d1d"
+  },
+  "Item Description": "Melody, 6 Quart portable Slow Cooker",
+  "Manufacturer": "The Pioneer Women",
+  "SKU": {
+    "$numberLong": "40094330638"
+  },
+  "Width": 15.25,
+  "Length": 9.5,
+  "Pounds": 15,
+  "Ounces": 12.4,
+  "Box ID": "K12",
+  "Price": 80,
+  "Pictures": "[{\n'front: 'AF1QipMLGArzUVTuzQfHqoIyOPVp80TpNsji5LKbhDP2',\n'left': 'AF1QipM-YEimW_FZsNMzeMumsY9FMZW4GLqKr7ATMcmP',\n'right': 'AF1QipP5r-gFDGEwot0rQXHBPfnKQ7tH7Vro-f2jsIXG'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d1e"
+  },
+  "Item Description": "Bread Maker",
+  "Manufacturer": "Alcove",
+  "Height": 12,
+  "Width": 10.25,
+  "Length": 13.25,
+  "Pounds": 8.2,
+  "Box ID": "K12",
+  "Price": 55.99,
+  "Pictures": "[{\n'front: 'AF1QipNctZzSqrF5F7gcY6IkHQ_0iDP39r6bcO7GmDwu',\n'left': 'AF1QipP8KnixpIZfJ9kVU4qnLIwNx5ayNHcD5jl4MXSG',\n'right': 'AF1QipOUis1w9jspTesFpCoc8vIuwmKT_6TambWTIQVO'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d1f"
+  },
+  "Item Description": "Classic Thermoelectric Cooler",
+  "Manufacturer": "Coca-Cola",
+  "Model": "KWC-4",
+  "SKU": {
+    "$numberLong": "59586601064"
+  },
+  "Height": 10.75,
+  "Width": 7.5,
+  "Length": 9.75,
+  "Pounds": 4.6,
+  "Box ID": "K9",
+  "Price": 39,
+  "Pictures": "[{\n'front: 'AF1QipNOTzNYkhIhOOESsggNgj9R12pbV8P7CRGL4g7S',\n'left': 'AF1QipNWI4_QW3OIfkhMoea6uT5D6N1t41Y0isv0S2ui',\n'right': 'AF1QipO0kVYvme6ee-XHnPjXZa_rUufJmc-LVpPDw6G9'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d20"
+  },
+  "Item Description": "Soft Nugget Ice Maker",
+  "Manufacturer": "Personal Chiller",
+  "Model": "K4024SS",
+  "SKU": {
+    "$numberLong": "850018821162"
+  },
+  "Height": 17.75,
+  "Width": 12.25,
+  "Length": 15.5,
+  "Pounds": 29.8,
+  "Box ID": "K14",
+  "Price": 159,
+  "Pictures": "[{\n'front: 'AF1QipPpRZB6LmKk0eqNUejDxg6njUq2lGc6GUNl_v2j',\n'left': 'AF1QipPWVRoYTAqQevicSvI9CvoOV8SH-4hQE8g5ylME',\n'right': 'AF1QipMuJ4BowPB3AE3FYPMaIpvaZ45yQAuF1NFgUARO'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d21"
+  },
+  "Item Description": "Espresso Machine",
+  "Manufacturer": "Chefman",
+  "Model": "RJ54-V2",
+  "SKU": {
+    "$numberLong": "816458026260"
+  },
+  "Height": 14.5,
+  "Width": 10.25,
+  "Length": 12.75,
+  "Pounds": 12.8,
+  "Price": 124,
+  "Pictures": "[{\n'front: 'AF1QipPR5Mcz1z23tRTZfyR039v-HA-fWGW5Ikn3IKCb',\n'left': 'AF1QipNKFezqXwblu_KAIXikN5ThLjJZXVhFcS-c1WWG',\n'right': 'AF1QipPwNFmgYI1tJ9pNC07G4QlGyJLsPaiMz6yhwg8r'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d22"
+  },
+  "Item Description": "XL Stainless",
+  "Manufacturer": "Pressure Power Cooker",
+  "Height": 13.75,
+  "Width": 15.5,
+  "Length": 13.5,
+  "Pounds": 13.6,
+  "Pictures": "[{\n'front: ''AF1QipPzRCSaSrsKZSvFL4qmrERrpSLc1JcMCs1ibedR,\n'left': 'AF1QipMQ5YZzSWEauaq1lOAaIgRq85LZdatf-eNho-nI',\n'right': 'AF1QipPR4O9qH9jWjbBhBHhVNLAZihoUOgpwvM_PhB6N'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d23"
+  },
+  "Item Description": "French Door Countertop Oven",
+  "Manufacturer": "Oster",
+  "Model": "TSSTTVFDXL-CH",
+  "SKU": {
+    "$numberLong": "34264498174"
+  },
+  "Height": 15.5,
+  "Width": 20.75,
+  "Length": 24,
+  "Pounds": 27.2,
+  "Box ID": "K13",
+  "Price": 179,
+  "Pictures": "[{\n'front: '',\n'left': 'AF1QipPLV5oOZukbtb9JJbnrz0qq6mnpsJLXfrCKi1Xe',\n'right': 'AF1QipMFMMG41FpBYvVMWTvts8epZm3IkJrcrYOsgmnR'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d24"
+  },
+  "Item Description": "5 Quart Chilipot, Non-stick Aluminum",
+  "Manufacturer": "Epicurious",
+  "Pictures": "[{\n'front: 'AF1QipMfyGpnRzW5DRecDDJmFnoVpkodCS6ZtPpe0Qx0',\n'left': 'AF1QipOiDURCyXqSQxFFi2MT1oTABPqujGcwJcG9sUk3',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d25"
+  },
+  "Item Description": "MyMini Heart Waffle Maker, Red",
+  "Manufacturer": "Nostoalgia ",
+  "SKU": {
+    "$numberLong": "82677200143"
+  },
+  "Height": 7.5,
+  "Width": 6,
+  "Length": 4.25,
+  "Pounds": 1,
+  "Ounces": 7.8,
+  "Box ID": "K8",
+  "Price": 14.99,
+  "Pictures": "[{\n'front: 'AF1QipNaCo27DE-qZ0cKxW3x44VPD8DnNTlNwYZ94gOB',\n'left': 'AF1QipNrFbMEK81JUQ5GtT5FadnpH_L5lrUJWE5YAjMG',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d26"
+  },
+  "Item Description": "Textured Ceramic 4-Piece Dotted Bowl Set",
+  "Manufacturer": "Chef's Counter",
+  "Model": "CC-488",
+  "SKU": {
+    "$numberLong": "849808004885"
+  },
+  "Height": 6.75,
+  "Width": 8.5,
+  "Length": 8.25,
+  "Pounds": 4.3,
+  "Box ID": "K7",
+  "Pictures": "[{\n'front: 'AF1QipMLqA97BrhUiGm709NUk5WrGj3WftaPoBOi0-eM',\n'left': 'AF1QipPrLPz50Z1qVZLr_nZxzTRi-9riXvFeQyl36eup',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d27"
+  },
+  "Item Description": "3-Tier Dessert Tower",
+  "Manufacturer": "Wilton",
+  "Model": "3-Tier Dessert Tower",
+  "SKU": {
+    "$numberLong": "7089637705"
+  },
+  "Height": 11.75,
+  "Width": 7,
+  "Length": 11,
+  "Pounds": 1.6,
+  "Box ID": "K10",
+  "Pictures": "[{\n'front: 'AF1QipPmiBdJWtQMEihvCPQ5S1cm4kejrkku00syqs5T',\n'left': 'AF1QipOdXDbxt3pvYE6BZF9GIPLnSS1kRSWAvWB4vxUv',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d28"
+  },
+  "Item Description": "5-Piece Flatware Caddy Set",
+  "Manufacturer": "Home Essentials",
+  "Model": "5-Piece Flatware Caddy Set",
+  "SKU": {
+    "$numberLong": "78646009407"
+  },
+  "Height": 9.5,
+  "Width": 7.25,
+  "Length": 7,
+  "Pounds": 3.1,
+  "Box ID": "K7",
+  "Pictures": "[{\n'front: 'AF1QipPzS8KljHd1eu737u0MgLgJm07w4tkZwCI04IJJ',\n'left': 'AF1QipNcXRLGQKEsYbx8etawqrIuL3rDj0UfKApapK5D',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d29"
+  },
+  "Item Description": "3.5-QT Dutch Oven",
+  "Manufacturer": "JCPenney Home Cooks",
+  "Model": "T71CJHK",
+  "SKU": 1538804991,
+  "Height": 9.75,
+  "Width": 6.5,
+  "Length": 12.5,
+  "Pounds": 10.4,
+  "Box ID": "K8",
+  "Pictures": "[{\n'front: 'AF1QipML5QwbyTHS1agQwhIRXujQ9ntzBh5BSMFZreA-',\n'left': 'AF1QipNdrljPxnSnTznl2vpN_9iUFeEOKjgWj6eFkQ4T',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d2a"
+  },
+  "Item Description": "5.5-QT Dutch Oven",
+  "Manufacturer": "JCPenney Home Cooks",
+  "Model": "T81CJHK",
+  "SKU": 1538804992,
+  "Height": 6.75,
+  "Width": 11.5,
+  "Length": 14.25,
+  "Pounds": 14.6,
+  "Box ID": "K15",
+  "Pictures": "[{\n'front: 'AF1QipPRnGnFc_VSnSoAyuZI1WpdpS4WBgVJg9hPSvjB',\n'left': 'AF1QipNyaP-vwTLfHEr8MZkKyIiDJTI3O13XijlrN_06',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d2b"
+  },
+  "Item Description": "Mini Batter Bottle",
+  "Manufacturer": "Rise by Dash",
+  "Model": "RBB500GBRR16",
+  "SKU": {
+    "$numberLong": "810051855203"
+  },
+  "Height": 8.5,
+  "Width": 3.5,
+  "Length": 3.25,
+  "Pounds": 0.7,
+  "Box ID": "K7",
+  "Pictures": "[{\n'front: 'AF1QipOc-ZWIWA9K2qvv78Aao2QuBnNCrQqz6kmG7LGn',\n'left': 'AF1QipPlE_3G8fuHqbPYVkMLu0VULOQsjVvHhbvagBY_',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d2c"
+  },
+  "Item Description": "MyMini Heart Waffle Maker, Red",
+  "Manufacturer": "Nostoalgia ",
+  "SKU": {
+    "$numberLong": "82677200143"
+  },
+  "Height": 7.5,
+  "Width": 6,
+  "Length": 4.25,
+  "Pounds": 1,
+  "Ounces": 7.8,
+  "Box ID": "K8",
+  "Price": 14.99,
+  "Pictures": "[{\n'front: 'AF1QipMWK-pbu6mVDUnDhcmhKTjaov_78T8UYcuSLIUO',\n'left': 'AF1QipMOVmqkn8kO01Wh2iXTey8-OtbvwxilygwfuXyX',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d2d"
+  },
+  "Item Description": "4-Quart Wood Ice Cream Machine",
+  "Manufacturer": "Nostoalgia ",
+  "Height": 13.5,
+  "Width": 12.75,
+  "Length": 12.5,
+  "Pounds": 8.6,
+  "Box ID": "K15",
+  "Pictures": "[{\n'front: 'AF1QipPtIuYbpeduLkDMY1Bczb2DLzkjyYIv8NiR-VsX',\n'left': 'AF1QipOyBC3WqT6NvRso4bSixbjK1jT2e4KPYXYuXXXI',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d2e"
+  },
+  "Item Description": "11 Piece Cookware, Dishwasher Safe, Non-Stick Aluminum",
+  "Manufacturer": "Epicurious",
+  "Model": "EPI-U3550",
+  "SKU": {
+    "$numberLong": "48552465472"
+  },
+  "Height": 13,
+  "Width": 11.5,
+  "Length": 24,
+  "Pounds": 24.2,
+  "Box ID": "K21",
+  "Pictures": "[{\n'front: 'AF1QipN2vnndiM4RuIxwOabevuakQMJji1lzXAvKBjfM',\n'left': 'AF1QipMRMXpQ6R7QpU-Vf9At0jgIMMgKCx9HMwIClrrR',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d2f"
+  },
+  "Item Description": "15 Piece Essentials Measuring Set",
+  "Manufacturer": "Rise By Dash",
+  "Model": "RSMS150GBRR24",
+  "SKU": {
+    "$numberLong": "810051855449"
+  },
+  "Height": 5.5,
+  "Width": 5.5,
+  "Length": 9,
+  "Pounds": 1.4,
+  "Box ID": "K7",
+  "Pictures": "[{\n'front: 'AF1QipOK9RP7aIlkaGaldAHlZeR3x_RQKYwc-JuRlJJe',\n'left': 'AF1QipPts7UkJBh_pp6AShm6STDQ0FG2YiPT62mSBop4',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d30"
+  },
+  "Item Description": "French Fry Cutter",
+  "Manufacturer": "RSVP International",
+  "Model": {
+    "$numberLong": "53796403944"
+  },
+  "SKU": {
+    "$numberLong": "53796403944"
+  },
+  "Height": 5,
+  "Width": 4.5,
+  "Length": 10,
+  "Pounds": 2,
+  "Box ID": "K8",
+  "Pictures": "[{\n'front: 'AF1QipM9C3xDZFgPa7x1eg02MXCsit_ojfJw9-8rNkP7',\n'left': 'AF1QipMNBB8kW7u0BHUAqYYI4iVOFZ2qxVvP9BKuoLVp',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d31"
+  },
+  "Item Description": "10 Piece Stainless Steel, pot, pans tops",
+  "Manufacturer": "Calphalone Classic",
+  "SKU": {
+    "$numberLong": "16853060665"
+  },
+  "Height": 10.5,
+  "Width": 13,
+  "Length": 24.25,
+  "Pounds": 20.6,
+  "Box ID": "K23",
+  "Pictures": "[{\n'front: 'AF1QipMhaiqceOPuFCv4h9rat7oqM3F5-1MXS21301LH',\n'left': 'AF1QipOWGlWWLHa0OLODIl4fL1QpEcLLxQ29qMp2U-EY',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d32"
+  },
+  "Item Description": "Aluminum 30-Quart Turkey Fryer",
+  "Manufacturer": "Bayou Classic",
+  "SKU": {
+    "$numberLong": "50904030252"
+  },
+  "Height": 18,
+  "Width": 14.25,
+  "Length": 14.5,
+  "Pounds": 8.6,
+  "Box ID": "K24",
+  "Pictures": "[{\n'front: 'AF1QipPth5xGaCDisdtO5s5I_Jts1ONzFM4fKkAR4cF-',\n'left': 'AF1QipMxVtIqziTXOlzNnxWjcN_UFDvU3RG1AmBCoQMX',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d33"
+  },
+  "Item Description": "6-Quart Cast Iron Enamel Dutch Oven-Blue",
+  "Manufacturer": "Chef Mark",
+  "Model": "4NCOD2BLU0010",
+  "Height": 6.75,
+  "Width": 13.75,
+  "Length": 12.25,
+  "Pounds": 16.6,
+  "Box ID": "K16",
+  "Pictures": "[{\n'front: 'AF1QipNXRk54-SFDdY5bS98wJVRCXd6wo3tkNTOVjgD4',\n'left': 'AF1QipM7K7rbvfz3kywEJ2ux8o4a-ahi8OcCd5LNVyal',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d34"
+  },
+  "Item Description": "11-Piece Utensil Set with revolving Caddy",
+  "Manufacturer": "Family Chef",
+  "Model": 621691,
+  "SKU": {
+    "$numberLong": "32251010194"
+  },
+  "Height": 11.25,
+  "Width": 7.5,
+  "Length": 7,
+  "Pounds": 1.45,
+  "Box ID": "K16",
+  "Pictures": "[{\n'front: 'AF1QipPEfIOi5vKFR5Ekm44R8R9C9IdNFhD5DTCM1ybI',\n'left': 'AF1QipNjIyQnVbisc7_9llDdLuVHJSeFF-Tl8TsuUjYd',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d35"
+  },
+  "Item Description": "Two Speed Hand Blender",
+  "Manufacturer": "Kitchen Aid",
+  "Model": "KHB1231CU",
+  "SKU": {
+    "$numberLong": "883049240480"
+  },
+  "Height": 12.5,
+  "Width": 4.5,
+  "Length": 4.25,
+  "Pounds": 2.75,
+  "Box ID": "K16",
+  "Pictures": "[{\n'front: '',\n'left': '',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d36"
+  },
+  "Item Description": "Three Speed Ultra Power Hand Mixer",
+  "Manufacturer": "Kitchen Aid",
+  "Model": "KHM312ER",
+  "SKU": {
+    "$numberLong": "883049600246"
+  },
+  "Height": 7.75,
+  "Width": 9.5,
+  "Length": 5.5,
+  "Pounds": 2.75,
+  "Box ID": "K16",
+  "Pictures": "[{\n'front: '',\n'left': '',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d37"
+  },
+  "Item Description": "Sheet Slicer",
+  "Manufacturer": "Vasta",
+  "Model": "VT011112",
+  "SKU": {
+    "$numberLong": "740275053690"
+  },
+  "Height": 9,
+  "Width": 2.75,
+  "Length": 7,
+  "Pounds": 1.25,
+  "Box ID": "K16",
+  "Pictures": "[{\n'front: '',\n'left': '',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d38"
+  },
+  "Item Description": "3 Quart Casserole with Steamer Insert",
+  "Manufacturer": "Kenmore Elite",
+  "Model": 126367.03,
+  "SKU": "85,081,495,488",
+  "Height": 10.75,
+  "Width": 11.5,
+  "Length": 12,
+  "Pounds": 13.4,
+  "Box ID": "K17",
+  "Pictures": "[{\n'front: '',\n'left': '',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d39"
+  },
+  "Item Description": "12-Piece Dinnerware Set",
+  "Manufacturer": "Thyme & Table",
+  "Model": "TT0062",
+  "SKU": {
+    "$numberLong": "848974277079"
+  },
+  "Height": 11.25,
+  "Width": 11.5,
+  "Length": 11.5,
+  "Pounds": 16.8,
+  "Box ID": "K18",
+  "Pictures": "[{\n'front: '',\n'left': '',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d3a"
+  },
+  "Item Description": "12-Piece Dinnerware Set",
+  "Manufacturer": "Thyme & Table",
+  "Model": "TT0062",
+  "SKU": {
+    "$numberLong": "848974277079"
+  },
+  "Height": 11.25,
+  "Width": 11.5,
+  "Length": 11.5,
+  "Pounds": 16.8,
+  "Box ID": "K18",
+  "Pictures": "[{\n'front: '',\n'left': '',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d3b"
+  },
+  "Item Description": "2 Tier Basket Stand",
+  "Model": "MLGY18003",
+  "SKU": {
+    "$numberLong": "4712883751608"
+  },
+  "Height": 16,
+  "Width": 7.5,
+  "Length": 13.25,
+  "Pounds": 6.5,
+  "Box ID": "K17",
+  "Pictures": "[{\n'front: '',\n'left': '',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d3c"
+  },
+  "Item Description": "MyMini Snowflake Waffle Maker",
+  "Manufacturer": "Nostalgia",
+  "Model": "MWFSNWFLKWM5WH",
+  "SKU": {
+    "$numberLong": "810061701026"
+  },
+  "Height": 7.25,
+  "Width": 5.5,
+  "Length": 6,
+  "Pounds": 1.5,
+  "Box ID": "K16",
+  "Pictures": "[{\n'front: '',\n'left': '',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d3d"
+  },
+  "Item Description": "4 Piece Glass Canister Set",
+  "Manufacturer": "Family Chef",
+  "Model": 621690,
+  "SKU": {
+    "$numberLong": "32251010187"
+  },
+  "Height": 12,
+  "Width": 5,
+  "Length": 9.25,
+  "Pounds": 5.25,
+  "Box ID": "K17",
+  "Pictures": "[{\n'front: '',\n'left': '',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d3e"
+  },
+  "Item Description": "2 Tier Round Galvanized Serving Stand",
+  "Manufacturer": "Better Homes and Gardens",
+  "Model": "BH27-056-699-36",
+  "SKU": {
+    "$numberLong": "848202000820"
+  },
+  "Height": 12.75,
+  "Width": 3,
+  "Length": 12.25,
+  "Pounds": 3.25,
+  "Box ID": "K15",
+  "Pictures": "[{\n'front: '',\n'left': '',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d3f"
+  },
+  "Item Description": "Copper Crisper",
+  "Manufacturer": "Copper Chef",
+  "SKU": {
+    "$numberLong": "752356815684"
+  },
+  "Height": 10,
+  "Width": 3.5,
+  "Length": 13.25,
+  "Pounds": 2,
+  "Box ID": "K15",
+  "Pictures": "[{\n'front: '',\n'left': '',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d40"
+  },
+  "Item Description": "RoboTwist",
+  "Manufacturer": "Emson",
+  "SKU": {
+    "$numberLong": "80313010149"
+  },
+  "Height": 9,
+  "Width": 3.5,
+  "Length": 8,
+  "Pounds": 1.25,
+  "Box ID": "K16",
+  "Pictures": "[{\n'front: '',\n'left': '',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d41"
+  },
+  "Item Description": "Grater with storage",
+  "Manufacturer": "Tasty",
+  "Model": "TYR01-K406",
+  "SKU": {
+    "$numberLong": "741393577259"
+  },
+  "Height": 12,
+  "Width": 4.5,
+  "Length": 4.5,
+  "Pounds": 1.25,
+  "Box ID": "K16",
+  "Pictures": "[{\n'front: '',\n'left': '',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d42"
+  },
+  "Item Description": "Non-stick oven liner",
+  "Manufacturer": "Rang Kleen",
+  "Model": 670,
+  "SKU": {
+    "$numberLong": "70775189347"
+  },
+  "Height": 18,
+  "Width": 2,
+  "Length": 2.75,
+  "Pounds": 0.25,
+  "Box ID": "K15",
+  "Pictures": "[{\n'front: '',\n'left': '',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d43"
+  },
+  "Item Description": "Non-stick oven liner",
+  "Manufacturer": "Rang Kleen",
+  "Model": 670,
+  "SKU": {
+    "$numberLong": "70775189347"
+  },
+  "Height": 18,
+  "Width": 2,
+  "Length": 2.75,
+  "Pounds": 0.25,
+  "Box ID": "K15",
+  "Pictures": "[{\n'front: '',\n'left': '',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d44"
+  },
+  "Item Description": "12 Inch Griddle, Dishwasher Safe, tools for passionate Cooks",
+  "Manufacturer": "Epicurious",
+  "Model": "EPI-U3567",
+  "SKU": {
+    "$numberLong": "48552466417"
+  },
+  "Height": 21,
+  "Width": 8,
+  "Length": 12.75,
+  "Pounds": 3.5,
+  "Box ID": "K18",
+  "Pictures": "[{\n'front: '',\n'left': '',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d45"
+  },
+  "Item Description": "Restraurant Style Griddle",
+  "Manufacturer": "Sizzle-Q",
+  "SKU": {
+    "$numberLong": "859460000484"
+  },
+  "Height": 4,
+  "Width": 15.5,
+  "Length": 19.25,
+  "Pounds": 10,
+  "Box ID": "K11",
+  "Pictures": "[{\n'front: '',\n'left': '',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d46"
+  },
+  "Item Description": "Microwave Oven",
+  "Manufacturer": "Samsung",
+  "Model": "ME18H704SFG",
+  "SKU": {
+    "$numberLong": "887276118215"
+  },
+  "Height": 19.5,
+  "Width": 20,
+  "Length": 33,
+  "Pounds": 50,
+  "Box ID": "K25",
+  "Pictures": "[{\n'front: '',\n'left': '',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d47"
+  },
+  "Item Description": "Stand Mixer Attachment, Citrus Juicer",
+  "Manufacturer": "Kitchen Aid",
+  "Model": "JE",
+  "SKU": {
+    "$numberLong": "50946000299"
+  },
+  "Height": 9,
+  "Width": 5,
+  "Length": 6.5,
+  "Pounds": 1,
+  "Box ID": "K16",
+  "Pictures": "[{\n'front: '',\n'left': '',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d48"
+  },
+  "Item Description": "Bistro Goosneck Water Kettle",
+  "Manufacturer": "Bodum",
+  "Model": "11940-57US-1",
+  "SKU": {
+    "$numberLong": "699965445218"
+  },
+  "Height": 8.75,
+  "Width": 9.25,
+  "Length": 9,
+  "Pounds": 3,
+  "Box ID": "K7",
+  "Pictures": "[{\n'front: '',\n'left': '',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d49"
+  },
+  "Item Description": "Breezy Blossom, 1.05 Quart Mini Dutch Oven with Lid",
+  "Manufacturer": "The Pioneer Woman",
+  "Model": "PWF096881814210",
+  "SKU": {
+    "$numberLong": "85081453075"
+  },
+  "Height": 7.25,
+  "Width": 6,
+  "Length": 7.5,
+  "Pounds": 2,
+  "Box ID": "K15",
+  "Pictures": "[{\n'front: '',\n'left': '',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d4a"
+  },
+  "Item Description": "14' WOK",
+  "Manufacturer": "Imusa",
+  "SKU": {
+    "$numberLong": "94046100589"
+  },
+  "Height": 6,
+  "Width": 25,
+  "Length": 14.5,
+  "Pounds": 5,
+  "Box ID": "K18",
+  "Pictures": "[{\n'front: '',\n'left': '',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d4b"
+  },
+  "Item Description": "Inigo Glass Cha",
+  "Manufacturer": "2Max",
+  "Model": 83195,
+  "SKU": {
+    "$numberLong": "784185831955"
+  },
+  "Serial #": 714469,
+  "Height": 3,
+  "Width": 16.5,
+  "Length": 16.5,
+  "Pounds": 4.5,
+  "Box ID": "K7",
+  "Pictures": "[{\n'front: '',\n'left': '',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d4c"
+  },
+  "Item Description": "8-Quart Stainless Stel Multi-Cooker with lid",
+  "Manufacturer": "Mainstays",
+  "Model": "MS15-0420994-01",
+  "SKU": {
+    "$numberLong": "855634004210"
+  },
+  "Height": 9,
+  "Width": 9.9,
+  "Length": 13,
+  "Pounds": 5.5,
+  "Box ID": "K19",
+  "Pictures": "[{\n'front: '',\n'left': '',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d4d"
+  },
+  "Item Description": "BMG Metal Serve Round Tray",
+  "Manufacturer": "Better Homes and Gardens",
+  "Model": "BHS102630714003",
+  "SKU": {
+    "$numberLong": "8908002734317"
+  },
+  "Height": 3,
+  "Width": 18,
+  "Length": 13,
+  "Pounds": 1.5,
+  "Box ID": "K19",
+  "Pictures": "[{\n'front: '',\n'left': '',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d4e"
+  },
+  "Item Description": "2-Burner Propane Flat Top  Griddle",
+  "Manufacturer": "Blackstone",
+  "Price": 275,
+  "Pictures": "[{\n'front: 'AF1QipMDSIfKVeYQT5Ye6yxwSV7kPUj5PTl1aMkky2lx',\n'left': 'AF1QipML8YvE6oBOvw0xItgS4Ix53nCTTzl6Gzs5fLx9',\n'right': 'AF1QipO1bly947NkBAJkF78OLLryD3zL1rlBRRqagbp4'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d4f"
+  },
+  "Item Description": "Big Tex Rustic Cooler",
+  "Manufacturer": "HEB Furniture",
+  "Price": 65,
+  "Pictures": "[{\n'front: 'AF1QipPZvIBQ5ah0AEvYgNGoXiKqCri66p9tq1We660D',\n'left': 'AF1QipNTxXNL-ue9a9vfCLUl4dw06y0idonRGvZUuWQh',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d50"
+  },
+  "Item Description": "2.5 Gallon Fryer",
+  "Manufacturer": "Bayou Classic",
+  "Price": 275,
+  "Pictures": "[{\n'front: 'AF1QipMpiS3ixUYsN1dAFCU594fTf8SlGR3F7VJTtbM2',\n'left': 'AF1QipMXuCWVHzNI3CvlC8bdVkkXrVjgQ8RtvzcDUeue',\n'right': 'AF1QipOpQOkXKgiTRtZMd0Kx1jlOTp2fiPrWMyR_lX5h'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d51"
+  },
+  "Item Description": "4 Burner Grill",
+  "Manufacturer": "Grillmaster",
+  "Price": 150,
+  "Pictures": "[{\n'front: 'AF1QipPbfgCom0c_L5Vcr1vo2HUxVwm-7LNALeNbOjN4',\n'left': '',\n'right': 'AF1QipMe8w4F4m6dHpxWvo2OaG0Y5R6K5SdctAkpkw0b'\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d52"
+  },
+  "Price": 60,
+  "Pictures": "[{\n'front: '',\n'left': '',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d53"
+  },
+  "Pictures": "[{\n'front: '',\n'left': '',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d54"
+  },
+  "Pictures": "[{\n'front: '',\n'left': '',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d55"
+  },
+  "Pictures": "[{\n'front: '',\n'left': '',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d56"
+  },
+  "Pictures": "[{\n'front: '',\n'left': '',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d57"
+  },
+  "Pictures": "[{\n'front: '',\n'left': '',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d58"
+  },
+  "Pictures": "[{\n'front: '',\n'left': '',\n'right': ''\n}]"
+},
+{
+  "_id": {
+    "$oid": "696fb225c6cb9b9609df1d59"
+  },
+  "Pictures": "[{\n'front: '',\n'left': '',\n'right': ''\n}]"
+}]

@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "696fa2ef4dbf4f72a484f8b8"
+  },
+  "buildingName": "USA Storage Centers - Evans",
+  "address": {
+    "address1": "5090 Washington Rd.",
+    "unit": "2170",
+    "city": "Evans",
+    "state": "GA"
+  },
+  "mainPhone": "7069175001",
+  "gps": {
+    "lat": 33.569912858426754,
+    "lng": -82.1896866307515
+  },
+  "security": "included",
+  "createdAt": {
+    "$date": "2026-01-20T15:44:47.914Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-20T15:44:47.914Z"
+  },
+  "__v": 0
+}]

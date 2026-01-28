@@ -1,0 +1,61 @@
+{
+  "name": "charlottes-web",
+  "version": "1.0.0",
+  "description": "Re-Home the Duplicates - A heartfelt e-commerce platform honoring Mom",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently &quot;npm run server&quot; &quot;npm run client&quot;",
+    "server": "nodemon server.js",
+    "client": "cd client && npm run dev",
+    "build": "cd client && npm run build",
+    "start": "node server.js",
+    "seed": "node scripts/seedDatabase.js",
+    "import:csv": "node routes/import.js"
+  },
+  "keywords": [
+    "ecommerce",
+    "inventory",
+    "family",
+    "duplicates",
+    "rehome"
+  ],
+  "author": "Nick",
+  "license": "MIT",
+  "dependencies": {
+    "barcode-detector": "^2.2.3",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "csv-parser": "^3.2.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-rate-limit": "^7.1.5",
+    "express-validator": "^7.0.1",
+    "helmet": "^7.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.0.3",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^7.0.12",
+    "package.json": "^0.0.0",
+    "quagga": "^0.6.16",
+    "sharp": "^0.32.6",
+    "stripe": "^14.9.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.4",
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.0.2"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njeff667/charlottes-web.git"
+  },
+  "bugs": {
+    "url": "https://github.com/njeff667/charlottes-web/issues"
+  },
+  "homepage": "https://github.com/njeff667/charlottes-web#readme"
+}

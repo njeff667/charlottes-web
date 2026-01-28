@@ -1,0 +1,300 @@
+[{
+  "_id": {
+    "$oid": "696fa2ef4dbf4f72a484f89d"
+  },
+  "name": "Storage Solutions",
+  "slug": "storage-solutions",
+  "description": "Storage containers, organization systems, and space-saving solutions",
+  "parent": null,
+  "level": 0,
+  "image": "/images/categories/storage.jpg",
+  "productCount": 0,
+  "isActive": true,
+  "sortOrder": 0,
+  "categoryType": "storage",
+  "storageType": null,
+  "warehouseFunction": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-20T15:44:47.882Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-20T15:44:47.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696fa2ef4dbf4f72a484f89e"
+  },
+  "name": "Climate-Controlled Storage",
+  "slug": "climate-controlled-storage",
+  "description": "Temperature and humidity controlled storage solutions",
+  "parent": null,
+  "level": 0,
+  "productCount": 0,
+  "isActive": true,
+  "sortOrder": 0,
+  "categoryType": "storage",
+  "storageType": "climate-controlled",
+  "warehouseFunction": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-20T15:44:47.882Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-20T15:44:47.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696fa2ef4dbf4f72a484f89f"
+  },
+  "name": "Outdoor Storage",
+  "slug": "outdoor-storage",
+  "description": "Weather-resistant outdoor storage solutions",
+  "parent": null,
+  "level": 0,
+  "productCount": 0,
+  "isActive": true,
+  "sortOrder": 0,
+  "categoryType": "storage",
+  "storageType": "outdoor storage",
+  "warehouseFunction": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-20T15:44:47.882Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-20T15:44:47.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696fa2ef4dbf4f72a484f8a0"
+  },
+  "name": "Household Essentials",
+  "slug": "household-essentials",
+  "description": "Everyday household items and necessities",
+  "parent": null,
+  "level": 0,
+  "productCount": 0,
+  "isActive": true,
+  "sortOrder": 0,
+  "categoryType": "household",
+  "storageType": null,
+  "warehouseFunction": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-20T15:44:47.882Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-20T15:44:47.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696fa2ef4dbf4f72a484f8a1"
+  },
+  "name": "Kitchen & Dining",
+  "slug": "kitchen-dining",
+  "description": "Kitchen appliances, cookware, and dining items",
+  "parent": null,
+  "level": 0,
+  "productCount": 0,
+  "isActive": true,
+  "sortOrder": 0,
+  "categoryType": "household",
+  "storageType": null,
+  "warehouseFunction": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-20T15:44:47.882Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-20T15:44:47.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696fa2ef4dbf4f72a484f8a2"
+  },
+  "name": "Bedding & Linens",
+  "slug": "bedding-linens",
+  "description": "Bed sheets, blankets, towels, and other linens",
+  "parent": null,
+  "level": 0,
+  "productCount": 0,
+  "isActive": true,
+  "sortOrder": 0,
+  "categoryType": "household",
+  "storageType": null,
+  "warehouseFunction": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-20T15:44:47.882Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-20T15:44:47.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696fa2ef4dbf4f72a484f8a3"
+  },
+  "name": "Office Supplies",
+  "slug": "office-supplies",
+  "description": "Office organization, supplies, and accessories",
+  "parent": null,
+  "level": 0,
+  "productCount": 0,
+  "isActive": true,
+  "sortOrder": 0,
+  "categoryType": "organization",
+  "storageType": null,
+  "warehouseFunction": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-20T15:44:47.882Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-20T15:44:47.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696fa2ef4dbf4f72a484f8a4"
+  },
+  "name": "File Storage",
+  "slug": "file-storage",
+  "description": "File cabinets, document storage, and paper organization",
+  "parent": null,
+  "level": 0,
+  "productCount": 0,
+  "isActive": true,
+  "sortOrder": 0,
+  "categoryType": "organization",
+  "storageType": null,
+  "warehouseFunction": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-20T15:44:47.882Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-20T15:44:47.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696fa2ef4dbf4f72a484f8a5"
+  },
+  "name": "Electronics",
+  "slug": "electronics",
+  "description": "Electronic devices and accessories",
+  "parent": null,
+  "level": 0,
+  "productCount": 0,
+  "isActive": true,
+  "sortOrder": 0,
+  "categoryType": "electronics",
+  "storageType": null,
+  "warehouseFunction": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-20T15:44:47.882Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-20T15:44:47.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696fa2ef4dbf4f72a484f8a6"
+  },
+  "name": "Phone Accessories",
+  "slug": "phone-accessories",
+  "description": "Phone cases, chargers, and mobile accessories",
+  "parent": null,
+  "level": 0,
+  "productCount": 0,
+  "isActive": true,
+  "sortOrder": 0,
+  "categoryType": "electronics",
+  "storageType": null,
+  "warehouseFunction": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-20T15:44:47.882Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-20T15:44:47.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696fa2ef4dbf4f72a484f8a7"
+  },
+  "name": "Seasonal Items",
+  "slug": "seasonal-items",
+  "description": "Holiday decorations and seasonal goods",
+  "parent": null,
+  "level": 0,
+  "productCount": 0,
+  "isActive": true,
+  "sortOrder": 0,
+  "categoryType": "other",
+  "storageType": null,
+  "warehouseFunction": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-20T15:44:47.883Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-20T15:44:47.883Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696fa2ef4dbf4f72a484f8a8"
+  },
+  "name": "Books & Media",
+  "slug": "books-media",
+  "description": "Books, DVDs, and other media items",
+  "parent": null,
+  "level": 0,
+  "productCount": 0,
+  "isActive": true,
+  "sortOrder": 0,
+  "categoryType": "other",
+  "storageType": null,
+  "warehouseFunction": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-20T15:44:47.883Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-20T15:44:47.883Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "696fa2ef4dbf4f72a484f8a9"
+  },
+  "name": "Clothing & Accessories",
+  "slug": "clothing-accessories",
+  "description": "Clothing items and fashion accessories",
+  "parent": null,
+  "level": 0,
+  "productCount": 0,
+  "isActive": true,
+  "sortOrder": 0,
+  "categoryType": "clothing",
+  "storageType": null,
+  "warehouseFunction": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-01-20T15:44:47.883Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-20T15:44:47.883Z"
+  }
+}]

@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "696fa2ef4dbf4f72a484f8bb"
+  },
+  "warehouseId": {
+    "$oid": "696fa2ef4dbf4f72a484f8b8"
+  },
+  "roomName": "main",
+  "security": "inherited",
+  "createdAt": {
+    "$date": "2026-01-20T15:44:47.918Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-20T15:44:47.918Z"
+  },
+  "__v": 0
+}]

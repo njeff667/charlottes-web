@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "696fa2ef4dbf4f72a484f892"
+  },
+  "displayName": "Charlotte",
+  "storyShort": "Dedicated to Mom, whose creativity and care inspired this shop. A portion of proceeds helps declutter and re-home useful items with love.",
+  "storyLong": "This shop began as a way to help my mom, Charlotte, who is older and living with memory changes. Over the years she collected duplicate items—brand-new, still in the box—from storage solutions to household essentials. Rather than let these useful items go to waste, we're re-homing them to people who need them. Thank you for helping us turn extras into essentials for someone else, all while honoring Mom's legacy of thoughtful collecting and care.",
+  "consentToShare": true,
+  "location": {
+    "city": "Charlotte",
+    "state": "NC",
+    "region": "Southeast"
+  },
+  "donationSettings": {
+    "enabled": true,
+    "percentage": 10,
+    "charityName": "Alzheimer's Association",
+    "charityUrl": "https://www.alz.org/",
+    "charityEIN": "13-3038601"
+  },
+  "shippingSettings": {
+    "freeShippingThreshold": 50,
+    "defaultShippingRate": 7.99,
+    "handlingTime": 2,
+    "internationalShipping": false
+  },
+  "returnPolicy": {
+    "acceptReturns": true,
+    "returnWindow": 30,
+    "restockFee": 0,
+    "conditions": "Items must be returned in original condition. New-in-box items must be unopened."
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2026-01-20T15:44:47.816Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-20T15:44:47.816Z"
+  },
+  "__v": 0
+}]
