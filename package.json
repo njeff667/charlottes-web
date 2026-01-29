@@ -5,7 +5,7 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "dev": "concurrently &quot;npm run server&quot; &quot;npm run client&quot;",
+    "dev": "concurrently 'npm run server' 'npm run client';",
     "server": "nodemon server.js",
     "client": "cd client && npm run dev",
     "build": "cd client && npm run build",
@@ -24,6 +24,7 @@
   "author": "Nick",
   "license": "MIT",
   "dependencies": {
+    "@tailwindcss/postcss": "^4.1.18",
     "barcode-detector": "^2.2.3",
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",

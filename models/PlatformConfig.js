@@ -143,7 +143,7 @@ const PlatformConfigSchema = new mongoose.Schema({
 });
 
 // Indexes
-PlatformConfigSchema.index({ platform: 1 }, { unique: true });
+PlatformConfigSchema.index({ unique: true });
 PlatformConfigSchema.index({ isActive: 1 });
 PlatformConfigSchema.index({ isConnected: 1 });
 
