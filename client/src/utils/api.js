@@ -37,6 +37,14 @@ export const createProduct = (data) => api.post('/products', data);
 export const updateProduct = (id, data) => api.put(`/products/${id}`, data);
 export const deleteProduct = (id) => api.delete(`/products/${id}`);
 
+// Items (from MongoDB items collection)
+export const getItems = (params) => api.get('/items', { params });
+export const getItem = (id) => api.get(`/items/${id}`);
+export const createItem = (data) => api.post('/items', data);
+export const updateItem = (id, data) => api.put(`/items/${id}`, data);
+export const deleteItem = (id) => api.delete(`/items/${id}`);
+export const getItemStats = () => api.get('/items/stats/summary');
+
 // Categories
 export const getCategories = () => api.get('/categories');
 

@@ -17,6 +17,7 @@ import orderRoutes from './routes/orders.js';
 import categoryRoutes from './routes/categories.js';
 import importRoutes from './routes/import.js';
 import platformRoutes from './routes/platforms.js';
+import itemRoutes from './routes/items.js';
 
 // Import services
 import platformService from './services/platformService.js';
@@ -72,6 +73,7 @@ app.use("/admin", adminRoutes);
 // API Routes
 app.use('/api/auth', authRoutes);
 app.use('/api/products', productRoutes);
+app.use('/api/items', itemRoutes);
 app.use('/api/intake', intakeRoutes);
 app.use('/api/users', userRoutes);
 app.use('/api/orders', orderRoutes);
@@ -92,9 +94,15 @@ app.get('/api/health', (req, res) => {
 if (process.env.NODE_ENV === 'production') {
   app.use(express.static(path.join(__dirname, 'client/dist')));
   
+  // Serve React app for all non-API routes
   app.get('*', (req, res) => {
     res.sendFile(path.join(__dirname, 'client/dist/index.html'));
   });
+} else {
+  // In development, let Vite handle the frontend
+  // The frontend runs on port 3000, backend on port 5000
+  console.log('💡 Development mode: Frontend should be running on http://localhost:3000');
+  console.log('💡 Make sure to run "cd client && npm run dev" in a separate terminal');
 }
 
 // Error handling middleware
@@ -106,9 +114,9 @@ app.use((err, req, res, next) => {
   });
 });
 
-// 404 handler
-app.use('*', (req, res) => {
-  res.status(404).json({ message: 'Route not found' });
+// 404 handler - only for API routes
+app.use('/api/*', (req, res) => {
+  res.status(404).json({ message: 'API route not found' });
 });
 
 // Database connection
